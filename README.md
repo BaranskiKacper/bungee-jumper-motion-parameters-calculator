@@ -1,7 +1,8 @@
 
 # Bungee Jumper Motion Parameters Calculator
 
-This project aims to calculate the motion parameters of a bungee jumper using a program developed in Python. The program utilizes Jupyter Notebook for an interactive and exploratory coding environment. It also makes use of various libraries, including NumPy, Matplotlib, and ipywidgets.
+This project aims to calculate the motion parameters of a bungee jumper using a program developed in Python. The program utilizes ** Jupyter Notebook ** for an interactive and exploratory coding environment. It also makes use of various libraries, including ** NumPy **, ** Matplotlib **, and ** ipywidgets **.
+
 ![dzwig](dzwig.png)
 
 
